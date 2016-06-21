@@ -4,3 +4,5 @@ Hi! I’m a test file. This is some text. So we’re going to end this paragraph
 •	Item 2
 •	Item 3
 •	Item 4
+
+Adding new line to this file.
